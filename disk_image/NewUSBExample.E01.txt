@@ -10,7 +10,7 @@ Notes:
 
 --------------------------------------------------------------
 
-Information for C:\Users\chris_work\Desktop\New USB Example\NewUSBExample:
+Information for NewUSBExample:
 
 Physical Evidentiary Item (Source) Information:
 [Device Info]
